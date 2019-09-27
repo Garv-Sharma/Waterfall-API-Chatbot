@@ -1,0 +1,4 @@
+Work plan:
+
+index.js > WelcomeDialog.js(introduces itself, runs a waterfall dialog) > choicePrompt(echo/analyze/face) > route to individual steps(what is inside steps?)
+
